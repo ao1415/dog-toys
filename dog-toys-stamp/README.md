@@ -4,7 +4,7 @@
 
 ## 使用方法
 
-<a href="dog-toys-stamp.zip" download>テンプレートをここからダウンロード</a>し、わんコメのテンプレートとして登録してください。
+<a href="https://github.com/ao1415/dog-toys/raw/main/dog-toys-stamp/dog-toys-stamp.zip" download>テンプレートをここからダウンロード</a>し、わんコメのテンプレートとして登録してください。
 
 ![サンプル画像](docs/template.png "サンプル画像")
 
